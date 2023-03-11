@@ -1,4 +1,4 @@
-# (Dataset Exploration Title)
+# Prosper Loan Dataset Analysis and Findings
 ## by David Apine Kwenev
 
 
